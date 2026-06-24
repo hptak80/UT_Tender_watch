@@ -41,6 +41,23 @@ KEYWORDS = [
     "weld inspection",
     "weld testing ultrasonic",
     "Schweißnahtprüfung",
+    # Rollstände (Radsatz-/Bremsprüfung auf Rollen)
+    "Rollstand",
+    "Rollstände",
+    "Rollenprüfstand",
+    "roller test stand",
+    "roller test bench",
+    "wheel test rig",
+    "wheel test bench",
+    # Werkstatt- und Notdrehgestelle
+    "Werkstattdrehgestell",
+    "Werkstattdrehgestelle",
+    "Notdrehgestell",
+    "Notdrehgestelle",
+    "workshop bogie",
+    "maintenance bogie",
+    "emergency bogie",
+    "rescue bogie",
 ]
 
 # ---------------------------------------------------------------------------
