@@ -10,6 +10,14 @@ on:
 permissions:
   contents: write  # nötig, damit der Workflow state/seen.json committen darf
 
+# Verhindert, dass zwei Läufe gleichzeitig laufen (z.B. wenn der geplante
+# 3-Stunden-Takt und ein manueller "Run workflow"-Klick sich überlappen).
+# Ohne das könnten zwei parallele Läufe gleichzeitig versuchen, den State
+# zu pushen - genau das löst den "fetch first"-Fehler aus.
+concurrency:
+  group: tender-watch-single-run
+  cancel-in-progress: false
+
 jobs:
   watch:
     runs-on: ubuntu-latest
