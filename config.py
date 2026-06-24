@@ -49,15 +49,39 @@ KEYWORDS = [
     "roller test bench",
     "wheel test rig",
     "wheel test bench",
-    # Werkstatt- und Notdrehgestelle
+    # Werkstatt- und Notdrehgestelle (inkl. branchenüblicher Synonyme)
     "Werkstattdrehgestell",
     "Werkstattdrehgestelle",
+    "Hilfsdrehgestell",
+    "Hilfsdrehgestelle",
+    "Transportdrehgestell",
+    "Werkstattfahrgestell",
     "Notdrehgestell",
     "Notdrehgestelle",
+    "Bergungsdrehgestell",
+    "Rettungsdrehgestell",
     "workshop bogie",
     "maintenance bogie",
+    "auxiliary bogie",
+    "transport bogie",
     "emergency bogie",
     "rescue bogie",
+    # Hohlwellenprüfsysteme (automatisiert, für Radsatzwellen mit Längsbohrung)
+    "Hohlwellenprüfsystem",
+    "Hohlwellenprüfsysteme",
+    "Radsatzhohlwelle",
+    "Radsatzwelle mit Längsbohrung",
+    "hollow axle ultrasonic",
+    "hollow shaft testing system",
+    "UFPE-Light",
+    "UFPE",
+    # Radkranzprüfung (mobile Ultraschallprüfsysteme)
+    "Radkranz",
+    "Radkränze",
+    "Radkranzprüfung",
+    "wheel rim ultrasonic",
+    "wheel tyre testing",
+    "wheel tread inspection",
 ]
 
 # ---------------------------------------------------------------------------
