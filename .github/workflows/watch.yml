@@ -43,7 +43,21 @@ jobs:
           git add state/seen.json state/pending_review.json
           if ! git diff --staged --quiet; then
             git commit -m "Update seen tenders state [skip ci]"
-            git push
+            # Falls währenddessen jemand auf GitHub etwas anderes geändert hat
+            # (z.B. config.py bearbeitet), zuerst synchronisieren, dann erst
+            # pushen. Ein paar Versuche, falls mehrfach was dazwischenkommt.
+            success=false
+            for i in 1 2 3; do
+              if git pull --no-rebase --no-edit origin main && git push; then
+                success=true
+                break
+              fi
+              echo "Push-Versuch $i fehlgeschlagen, erneuter Versuch..."
+              sleep 5
+            done
+            if [ "$success" = false ]; then
+              echo "Konnte State nicht pushen - wird beim nächsten Lauf erneut versucht."
+            fi
           else
             echo "Keine Änderungen am State."
           fi
