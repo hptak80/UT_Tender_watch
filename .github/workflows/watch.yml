@@ -1,0 +1,49 @@
+name: Tender Watch
+
+on:
+  schedule:
+    # Alle 3 Stunden. Syntax: Minute Stunde Tag Monat Wochentag (UTC!)
+    # Anpassen z.B. auf "0 * * * *" für jede volle Stunde.
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}  # erlaubt manuellen Start über den "Run workflow" Button
+
+permissions:
+  contents: write  # nötig, damit der Workflow state/seen.json committen darf
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Ausschreibungen prüfen und ggf. benachrichtigen
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m tender_watch.main
+
+      - name: Aktualisierten Status zurück ins Repo schreiben
+        run: |
+          git config user.name "tender-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/seen.json state/pending_review.json
+          if ! git diff --staged --quiet; then
+            git commit -m "Update seen tenders state [skip ci]"
+            git push
+          else
+            echo "Keine Änderungen am State."
+          fi
