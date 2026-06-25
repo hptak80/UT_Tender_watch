@@ -1,3 +1,43 @@
 {
-  "items": []
+  "items": [
+    {
+      "source": "TED (EU)",
+      "id": "ted-434912-2026",
+      "title": "Dánia – Csővezeték-ellenőrzési szolgáltatások – Udbud af planlagte TV- og spuleopgaver 2026",
+      "buyer": [
+        "NOVAFOS A/S"
+      ],
+      "country": [
+        "DNK"
+      ],
+      "published": "2026-06-25+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/434912-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-436214-2026",
+      "title": "Németország – Vasútállomás építése – HWK Ahrtalbahn: Umbau Bf Bad Neuenahr",
+      "buyer": [
+        "DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16)"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-06-25+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/436214-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-436965-2026",
+      "title": "Írország – Műszaki vizsgálati, elemzési és tanácsadó szolgáltatások – Provision of Water Analysis, Food Sample Swabbing and Surface Swabbing in all Prison Service Kitchens",
+      "buyer": [
+        "Irish Prison Service"
+      ],
+      "country": [
+        "IRL"
+      ],
+      "published": "2026-06-25+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/436965-2026"
+    }
+  ]
 }
