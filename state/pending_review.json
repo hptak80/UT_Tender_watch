@@ -116,6 +116,45 @@
       ],
       "published": "2026-07-03+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/459327-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-461904-2026",
+      "title": "Dánia – Vízelvezetés – Drift og vedligeholdelse af afvandingsanlæg",
+      "buyer": [
+        "Banedanmark"
+      ],
+      "country": [
+        "DNK"
+      ],
+      "published": "2026-07-06+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/461904-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-462004-2026",
+      "title": "Németország – CNC (számítógépes számjegy) vezérlésű eszterga – Tandem-Unterflur-Radsatz-Drehmaschine (URD) für das Werk Düsseldorf, DB Regio AG",
+      "buyer": [
+        "DB Regio AG (Bukr 12)"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-07-06+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/462004-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-462157-2026",
+      "title": "Németország – Építési munkák – Julius-Leber-Kaserne - Neubau Stabsgebäude Planungsamt - TGA in Außenanlagen - Vergabe 1376/2026",
+      "buyer": [
+        "Bundesamt für Bauwesen und Raumordnung, in Vertretung des Bundesministerium der Verteidigung"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-07-06+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/462157-2026"
     }
   ]
 }
