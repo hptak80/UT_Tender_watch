@@ -376,6 +376,32 @@
       ],
       "published": "2026-08-07+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/548171-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-550586-2026",
+      "title": "Franciaország – Műszaki vizsgálati és elemzési szolgáltatások – Prestations-services : Contrôle de réception des réseaux d'eau et d'assainissement de la Communauté Urbaine Le Havre Seine Métropole",
+      "buyer": [
+        "LE HAVRE SEINE METROPOLE"
+      ],
+      "country": [
+        "FRA"
+      ],
+      "published": "2026-08-10+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/550586-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-553716-2026",
+      "title": "Dánia – Csővezeték-ellenőrzési szolgáltatások – IA_IRM ROV_26-34_FA",
+      "buyer": [
+        "Ørsted salg og service A/S"
+      ],
+      "country": [
+        "DNK"
+      ],
+      "published": "2026-08-10+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/553716-2026"
     }
   ]
 }
