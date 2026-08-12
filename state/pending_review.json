@@ -402,6 +402,45 @@
       ],
       "published": "2026-08-10+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/553716-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-557670-2026",
+      "title": "Németország – Ultrahangkészülék – mobile Ultraschallprüfsysteme UFPE Light - DB Fernverkehr AG (2. Neuausschreibung)",
+      "buyer": [
+        "DB Fernverkehr AG (Bukr 13)"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-08-12+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/557670-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-558609-2026",
+      "title": "Dánia – Csővezeték-ellenőrzési szolgáltatások – IA_IRM ROV_26-34_FA",
+      "buyer": [
+        "Ørsted salg og service A/S"
+      ],
+      "country": [
+        "DNK"
+      ],
+      "published": "2026-08-12+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/558609-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-560010-2026",
+      "title": "Franciaország – Roncsolásmentes tesztelési szolgáltatások – Accord-cadre à bons de commandes multiattributaires pour la réalisation de tests infiltrométries et protocoles ventilation dans les constructions neuves de Morbihan Habitat",
+      "buyer": [
+        "Morbihan Habitat (56)"
+      ],
+      "country": [
+        "FRA"
+      ],
+      "published": "2026-08-12+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/560010-2026"
     }
   ]
 }
