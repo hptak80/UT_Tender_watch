@@ -467,6 +467,45 @@
       ],
       "published": "2026-08-19+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/574667-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-576813-2026",
+      "title": "Svédország – Szennyvíz- és hulladéktisztítási és környezetvédelmi szolgáltatások – Sug- och spolbilstjänster",
+      "buyer": [
+        "Upplands-Bro kommun"
+      ],
+      "country": [
+        "SWE"
+      ],
+      "published": "2026-08-20+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/576813-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-577092-2026",
+      "title": "Németország – Fűtés, szellőzés és légkondicionálás szerelése – Auftragsänderung 6: BLB NRW / NL Dortmund / TU Dortmund (WE2037); Ringleitung / Erweiterung Fernkälte- und Wärmenetz / 010-24-00200",
+      "buyer": [
+        "Bau- und Liegenschaftsbetrieb NRW Dortmund"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-08-20+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/577092-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-577204-2026",
+      "title": "Luxemburg – Csővezeték-ellenőrzési szolgáltatások – Services de détection de fuites de gaz naturel / Dienstleistungen zur Detektion von Erdgaslecks",
+      "buyer": [
+        "Administration communale de la Ville de Dudelange"
+      ],
+      "country": [
+        "LUX"
+      ],
+      "published": "2026-08-20+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/577204-2026"
     }
   ]
 }
