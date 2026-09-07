@@ -675,6 +675,34 @@
       ],
       "published": "2026-09-07+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/613833-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-616237-2026",
+      "title": "Románia – Csővezeték-ellenőrzési szolgáltatások – Servicii de inspecție interioară a conductelor godevilabile",
+      "buyer": [
+        "Societatea Nationala de Transport Gaze Naturale TRANSGAZ SA"
+      ],
+      "country": [
+        "ROU"
+      ],
+      "published": "2026-09-08+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/616237-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-617173-2026",
+      "title": "Németország – Csővezeték-ellenőrzési szolgáltatások – Erstsicherung und Entstörbereitschaft (TEO)",
+      "buyer": [
+        "GASCADE Gastransport GmbH",
+        "NEL Gastransport GmbH"
+      ],
+      "country": [
+        "DEU",
+        "DEU"
+      ],
+      "published": "2026-09-08+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/617173-2026"
     }
   ]
 }
