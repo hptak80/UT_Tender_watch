@@ -725,6 +725,19 @@
       "country": "UK",
       "published": "2026-09-09T11:01:45+01:00",
       "url": "https://www.find-tender.service.gov.uk/Notice/085284-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-625367-2026",
+      "title": "Hollandia – Csővezeték-ellenőrzési szolgáltatások – Partnership agreement KenWave",
+      "buyer": [
+        "Brabant Water N.V."
+      ],
+      "country": [
+        "NLD"
+      ],
+      "published": "2026-09-10+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/625367-2026"
     }
   ]
 }
