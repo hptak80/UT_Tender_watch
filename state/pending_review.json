@@ -907,6 +907,58 @@
       ],
       "published": "2026-10-01+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/675763-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-682410-2026",
+      "title": "Dánia – Szennyvízcsatorna-tisztítási szolgáltatások – Offentligt EU-udbud vedrørende TV-inspektion for Vandmiljø Randers A/S",
+      "buyer": [
+        "Vandmiljø Randers A/S"
+      ],
+      "country": [
+        "DNK"
+      ],
+      "published": "2026-10-05+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/682410-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-683832-2026",
+      "title": "Németország – Építészeti, építési, mérnöki és vizsgálati szolgáltatások – A064, Biewertalbrücke-BW 6205 752 A1, Langzeitmonitoring mittels Schallemissionsanalyse mit objektbezogener akustischer Analyse.",
+      "buyer": [
+        "Die Autobahn GmbH des Bundes - NL West"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-10-05+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/683832-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-684016-2026",
+      "title": "Románia – Roncsolásmentes tesztelési szolgáltatások – Servicii de examinări nedistructive pentru perioadele de funcţionare şi opriri ale CNE Cernavodă",
+      "buyer": [
+        "Societatea Nationala NUCLEARELECTRICA S.A."
+      ],
+      "country": [
+        "ROU"
+      ],
+      "published": "2026-10-05+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/684016-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-684611-2026",
+      "title": "Magyarország – Roncsolásmentes tesztelési szolgáltatások – 1. blokki reaktortartály belső anyagvizsgálata",
+      "buyer": [
+        "MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság"
+      ],
+      "country": [
+        "HUN"
+      ],
+      "published": "2026-10-05+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/684611-2026"
     }
   ]
 }
