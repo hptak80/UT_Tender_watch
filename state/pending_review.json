@@ -1050,6 +1050,32 @@
       ],
       "published": "2026-10-13+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/704275-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-711546-2026",
+      "title": "Németország – Vasútpálya karbantartása – Rahmenvertrag zur zerstörungsfreien Prüfung von Gleisen und Weichen mit handgeführten Geräten",
+      "buyer": [
+        "DB InfraGO AG – Geschäftsbereich Fahrweg (Bukr 16)"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-10-15+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/711546-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-714010-2026",
+      "title": "Németország – Csőfektetéssel kapcsolatos építési munkák – Ertüchtigungs- bzw. Neubaumaßnahmen der Anlagentechnik in drei FW-Netzstationen sowie die Errichtung eines dazu erforderli-chen Gebäudes im Versorgungsgebiet der Energienetze Offenbach GMBH",
+      "buyer": [
+        "Energienetze Offenbach GmbH"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-10-15+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/714010-2026"
     }
   ]
 }
