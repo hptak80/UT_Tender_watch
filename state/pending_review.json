@@ -1167,6 +1167,32 @@
       ],
       "published": "2026-10-22+02:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/732702-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-736560-2026",
+      "title": "Németország – Kazánjavítási és -karbantartási szolgáltatások – Zerstörungsfreie Materialprüfung und Wanddickenmessung",
+      "buyer": [
+        "MVR Müllverwertung Rugenberger Damm GmbH"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-10-23+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/736560-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-736634-2026",
+      "title": "Olaszország – Csővezeték-ellenőrzési szolgáltatások – T_63367-Servizio di manutenzioni subacquee in mare e acque dolci, video ispezioni, rilievi e interventi di riparazione nell'ambito del Servizio Idrico Integrato Liguria",
+      "buyer": [
+        "Nome ufficiale: IREN S.p.A. (in nome e per conto di IRETI S.p.A. e IREN ACQUA TIGULLIO S.p.A.)"
+      ],
+      "country": [
+        "ITA"
+      ],
+      "published": "2026-10-23+02:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/736634-2026"
     }
   ]
 }
