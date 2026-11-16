@@ -1388,6 +1388,32 @@
       ],
       "published": "2026-11-13+01:00",
       "url": "https://ted.europa.eu/en/notice/-/detail/792579-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-794378-2026",
+      "title": "Németország – Javítási és karbantartási szolgáltatások – COSMOS - Struktur",
+      "buyer": [
+        "TenneT TSO GmbH"
+      ],
+      "country": [
+        "DEU"
+      ],
+      "published": "2026-11-16+01:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/794378-2026"
+    },
+    {
+      "source": "TED (EU)",
+      "id": "ted-795778-2026",
+      "title": "Görögország – Orvosi felszerelések, gyógyszerek és testápolási termékek – 02845/2024 - Προμήθεια εργαστηριακού εξοπλισμού για την Σχολή Επιστημών Υγείας",
+      "buyer": [
+        "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών / Ειδικός Λογαριασμός Κονδυλίων Έρευνας"
+      ],
+      "country": [
+        "GRC"
+      ],
+      "published": "2026-11-16+01:00",
+      "url": "https://ted.europa.eu/en/notice/-/detail/795778-2026"
     }
   ]
 }
